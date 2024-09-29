@@ -50,24 +50,19 @@ Najpierw upewnij się, że masz pobrany plik `gpfs.json` z odpowiedniego źród�
 1. Wejdź na stronę logowania platformy **Platma**.
 2. Zaloguj się, używając swoich poświadczeń (login i hasło). Upewnij się, że masz odpowiednie uprawnienia do importowania plików konfiguracyjnych.
 
-### 3. Przejdź do sekcji importu
-1. Po zalogowaniu, w panelu głównym, znajdź i wybierz opcję **Ustawienia** lub **Konfiguracja** (w zależności od struktury menu platformy).
-2. Wybierz zakładkę **Import** lub **Import plików konfiguracyjnych**.
+### 3. Przejdź do sekcji Workspace
+1. Po zalogowaniu, w panelu głównym, znajdź i wybierz opcję **Workspace** następnie **My Apps**.
+2. Wybierz opcję **Create new App**
 
 ### 4. Wybierz plik `gpfs.json` do importu
 1. Kliknij przycisk **Przeglądaj** (lub **Wybierz plik**) i przejdź do lokalizacji, w której znajduje się pobrany wcześniej plik `gpfs.json`.
-2. Wybierz plik i kliknij **Otwórz**.
+2. Wybierz plik i kliknij **Create app**.
 
-### 5. Import pliku
-1. Po wybraniu pliku upewnij się, że nazwa i format pliku są poprawne.
-2. Kliknij przycisk **Importuj**.
-3. Platforma może poprosić o potwierdzenie lub wyświetlić podgląd danych z pliku. Sprawdź, czy wszystko się zgadza, a następnie potwierdź operację.
-
-### 6. Weryfikacja
+### 5. Weryfikacja
 1. Po zakończeniu importu, platforma powinna wyświetlić komunikat o pomyślnym zakończeniu operacji.
 2. Możesz teraz przejść do odpowiedniej sekcji platformy, aby zweryfikować, czy dane z pliku zostały poprawnie zaimportowane i są aktywne.
 
-### 7. Dalsza konfiguracja (opcjonalnie)
+### 6. Dalsza konfiguracja (opcjonalnie)
 W niektórych przypadkach może być konieczna dalsza konfiguracja zaimportowanych danych. W zależności od specyfiki platformy **Platma**, przejdź do odpowiednich ustawień i dostosuj opcje konfiguracyjne zgodnie z potrzebami projektu.
 
 ---
