@@ -41,7 +41,7 @@ Platforma **Great Profit for Social** łączy świat biznesu z potrzebami społe
 
 ## Instalacja pliku `gpfs.json` na platformę Platma
 
-Aby zaimportować plik konfiguracyjny `gpfs.json` na platformę **Platma**, wykonaj poniższe kroki:
+Aby zaimportować plik konfiguracyjny `gpfs.json` na platformę **Platma** [https://platform.platma.com](https://platform.platma.com), wykonaj poniższe kroki:
 
 ### 1. Pobierz plik `gpfs.json`
 Najpierw upewnij się, że masz pobrany plik `gpfs.json` z odpowiedniego źródła. Plik powinien zawierać niezbędne dane do konfiguracji i importu na platformie.
@@ -70,6 +70,9 @@ W niektórych przypadkach może być konieczna dalsza konfiguracja zaimportowany
 ### Uwagi:
 - Upewnij się, że plik `gpfs.json` jest zgodny z formatem akceptowanym przez platformę **Platma**.
 - W razie problemów z importem, skontaktuj się z administratorem platformy lub sprawdź dokumentację w sekcji **Pomoc**.
+
+### Live demo
+[https://youtu.be/_fwAzShBck0](https://youtu.be/_fwAzShBck0)    
 
 
 # 28 wrz 2024 | HackYeah 2024
